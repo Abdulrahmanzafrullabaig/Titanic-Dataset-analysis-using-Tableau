@@ -1,6 +1,6 @@
-Titanic predection dataset
+Titanic prediction dataset
 
-The Titanic dataset is one of the most well-known datasets used in machine learning and data visualization, often employed for exploratory data analysis (EDA) and teaching purposes. It contains data about the passengers who were on board the RMS Titanic, which famously sank in 1912 after colliding with an iceberg. The dataset is popular for building models to predict survival based on various factors, as well as for visualizing and interpreting the results.
+The Titanic dataset is one of the most well-known datasets used in machine learning and data visualization, often employed for exploratory data analysis (EDA) and teaching purposes. It contains data about the passengers on board the RMS Titanic, which famously sank in 1912 after colliding with an iceberg. The dataset is popular for building models to predict survival based on various factors, as well as for visualizing and interpreting the results.
 
 Here’s the text with heading links styled for markdown format:
 
